@@ -1,0 +1,25 @@
+.courses-taken h3{
+    color: #ec0086;
+    margin-bottom: 35px;
+}
+.side-box {
+    width: 10px;
+    background-color: #ec0086;
+    height: 50px;
+}
+.confirm-btn {
+    padding: 10px 29px;
+    border: 1px solid white;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.confirm-btn:hover {
+    background-color: #ec008c;
+    border: none;
+    color: white;
+    padding: 11px 30px;
+}
+.courses-taken h5, p {
+    color: #949494;
+}

@@ -1,0 +1,36 @@
+.course {
+    margin-bottom: 14px;
+}
+.card {
+    background-color: #222222;
+}
+.card-body h5 {
+    color: #ffffff;
+    font-weight: 500;
+}
+.description {
+    color: #858585;
+    font-weight: 300;
+}
+.price {
+    color: #ec008c;
+}
+.course-info {
+    color: #858585;
+    line-height: 8px;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.btn-enrol {
+    border: 1px solid white;
+    padding: 10px 29px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.btn-enrol:hover {
+    background-color: #ec008c;
+    border: none;
+    color: white;
+    padding: 11px 30px;
+}
